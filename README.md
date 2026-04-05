@@ -25,9 +25,6 @@ dashboard creation.
 - Alice generates 46% of total sales revenue
 - 10% discount tier yields highest margin (16.1%)
 
-## Report Pages
-![Dashboard](screenshots/dashboard.png)
-![Products](screenshots/products-page.png)
 
 ## Files
 - `Electronics_data.pbix` — Power BI report file
